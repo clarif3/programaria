@@ -1,2 +1,1 @@
-# Projeto PrograMaria
-# Meu primeiro passo na programação
+# Projeto PrograMaria - Curso Online Eu Progr{amo}
